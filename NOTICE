@@ -1,0 +1,6 @@
+LoadMixer
+
+Includes code adapted from TimeMixer, licensed under Apache-2.0:
+https://github.com/kwuking/TimeMixer
+
+loadmixer.py and layers.py contain modifications for LoadMixer.

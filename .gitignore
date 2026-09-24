@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.pth
+*.pt
+results/
+outputs/
+datasets/
